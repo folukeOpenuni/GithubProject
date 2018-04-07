@@ -15,7 +15,7 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
-        
+        <p>hello I'm Alice!</p>
         <?php
         // put your code here
         ?>
