@@ -7,7 +7,8 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Bana's Travel Blog</title>
+        <title>Bana's Travel Blog - Naomi Edit</title>
+
         <link href="https://fonts.googleapis.com/css?family=Roboto:300,400" rel="stylesheet">
         <link href="https://fonts.googleapis.com/css?family=Merriweather:300,400" rel="stylesheet">
         <link rel="stylesheet" type="text/css" href="reset.css">
